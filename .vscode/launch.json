@@ -1,0 +1,430 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CashVoiceConverter",
+      "request": "launch",
+      "mainClass": "CashVoiceConverter",
+      "projectName": "java programs_438ff773"
+    },
+    {
+      "type": "java",
+      "name": "ChatClientGUI",
+      "request": "launch",
+      "mainClass": "ChatClientGUI",
+      "projectName": "java programs_438ff773"
+    },
+    {
+      "type": "java",
+      "name": "ChatServer",
+      "request": "launch",
+      "mainClass": "ChatServer",
+      "projectName": "java programs_438ff773"
+    },
+    {
+      "type": "java",
+      "name": "AWTExample1",
+      "request": "launch",
+      "mainClass": "AWTExample1",
+      "projectName": "java programs_438ff773"
+    },
+    {
+      "type": "java",
+      "name": "SimpleAWTExample",
+      "request": "launch",
+      "mainClass": "SimpleAWTExample",
+      "projectName": "java programs_438ff773"
+    },
+    {
+      "type": "java",
+      "name": "MyFrame",
+      "request": "launch",
+      "mainClass": "MyFrame",
+      "projectName": "java programs_438ff773"
+    },
+    {
+      "type": "java",
+      "name": "SelectionSort",
+      "request": "launch",
+      "mainClass": "SelectionSort",
+      "projectName": "java programs_438ff773"
+    },
+    {
+      "type": "java",
+      "name": "roman",
+      "request": "launch",
+      "mainClass": "roman",
+      "projectName": "java programs_438ff773"
+    },
+    {
+      "type": "java",
+      "name": "array",
+      "request": "launch",
+      "mainClass": "array",
+      "projectName": "java programs_438ff773"
+    },
+    {
+      "type": "java",
+      "name": "threadsample1",
+      "request": "launch",
+      "mainClass": "threadsample1",
+      "projectName": "java programs_438ff773"
+    },
+    {
+      "type": "java",
+      "name": "prog1",
+      "request": "launch",
+      "mainClass": "prog1",
+      "projectName": "java programs_438ff773"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "java programs_438ff773"
+    },
+    {
+      "type": "java",
+      "name": "armstrong",
+      "request": "launch",
+      "mainClass": "armstrong",
+      "projectName": "java programs_438ff773"
+    },
+    {
+      "type": "java",
+      "name": "TicTacToe",
+      "request": "launch",
+      "mainClass": "TicTacToe",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "tempConverter",
+      "request": "launch",
+      "mainClass": "tempConverter",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "Counter1",
+      "request": "launch",
+      "mainClass": "Counter1",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "student",
+      "request": "launch",
+      "mainClass": "student",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "EmailValidator",
+      "request": "launch",
+      "mainClass": "EmailValidator",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "SelectionSort",
+      "request": "launch",
+      "mainClass": "SelectionSort",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "bank",
+      "request": "launch",
+      "mainClass": "bank",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "SingleLinkedListexample",
+      "request": "launch",
+      "mainClass": "SingleLinkedListexample",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "roman",
+      "request": "launch",
+      "mainClass": "roman",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "SingleLinkedList",
+      "request": "launch",
+      "mainClass": "SingleLinkedList",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "singleLinkedList",
+      "request": "launch",
+      "mainClass": "singleLinkedList",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "sl",
+      "request": "launch",
+      "mainClass": "sl",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "SimpleAWTExample",
+      "request": "launch",
+      "mainClass": "SimpleAWTExample",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "awt",
+      "request": "launch",
+      "mainClass": "awt",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "AWTExample1",
+      "request": "launch",
+      "mainClass": "AWTExample1",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "arraysample",
+      "request": "launch",
+      "mainClass": "arraysample",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "bigInteger",
+      "request": "launch",
+      "mainClass": "bigInteger",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "arraylist1",
+      "request": "launch",
+      "mainClass": "arraylist1",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "array",
+      "request": "launch",
+      "mainClass": "array",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "armstrong",
+      "request": "launch",
+      "mainClass": "armstrong",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "classExample",
+      "request": "launch",
+      "mainClass": "classExample",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "hashmap",
+      "request": "launch",
+      "mainClass": "hashmap",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "filesample",
+      "request": "launch",
+      "mainClass": "filesample",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "frequency",
+      "request": "launch",
+      "mainClass": "frequency",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "localdate",
+      "request": "launch",
+      "mainClass": "localdate",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "LocalDateExample1",
+      "request": "launch",
+      "mainClass": "LocalDateExample1",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "CalendarExample",
+      "request": "launch",
+      "mainClass": "CalendarExample",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "calendar",
+      "request": "launch",
+      "mainClass": "calendar",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "calender",
+      "request": "launch",
+      "mainClass": "calender",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "pallindromStringrec",
+      "request": "launch",
+      "mainClass": "pallindromStringrec",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "pallindromStrimrec",
+      "request": "launch",
+      "mainClass": "pallindromStrimrec",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "reversingarray",
+      "request": "launch",
+      "mainClass": "reversingarray",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "factorial",
+      "request": "launch",
+      "mainClass": "factorial",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "test",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "check",
+      "request": "launch",
+      "mainClass": "check",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "threadsample2",
+      "request": "launch",
+      "mainClass": "threadsample2",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "Mythr",
+      "request": "launch",
+      "mainClass": "Mythr",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "threadsample1",
+      "request": "launch",
+      "mainClass": "threadsample1",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "arraylist",
+      "request": "launch",
+      "mainClass": "arraylist",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "arrayList",
+      "request": "launch",
+      "mainClass": "arrayList",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "contents",
+      "request": "launch",
+      "mainClass": "contents",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "RandomAccessFileExample",
+      "request": "launch",
+      "mainClass": "RandomAccessFileExample",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "pro1",
+      "request": "launch",
+      "mainClass": "pro1",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Test",
+      "projectName": "java programs_17f7383c"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/ADITYA/Documents/java programs",
+      "program": "c:/Users/ADITYA/Documents/java programs/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
