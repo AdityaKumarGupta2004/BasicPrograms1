@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "armstrong",
+      "request": "launch",
+      "mainClass": "armstrong",
+      "projectName": "java programs_a072f29b"
+    },
+    {
+      "type": "java",
       "name": "CashVoiceConverter",
       "request": "launch",
       "mainClass": "CashVoiceConverter",
