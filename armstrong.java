@@ -23,14 +23,14 @@ class armstrong{
         int a,b;
         Scanner ob = new Scanner(System.in);
         System.out.println("Enter The Number:\n");
-        // a= ob.nextInt();
-        // b= ob.nextInt();
+        a= ob.nextInt();
+        b= ob.nextInt();
         int c = 1^2^3^4^5^6;
         System.out.println(c);
-       // for(int i = a ; i<=b; i++)
-        /*{
+       for(int i = a ; i<=b; i++)
+        {
             arm.chk(i);
-        }*/
+        }
         ob.close();
     }
     
